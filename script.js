@@ -33,3 +33,26 @@ console.log(x)
 console.log(typeof x)
   
 //Question 03
+const z = {
+    brand : "rainbow"
+}
+//z = 4
+console.log(z)
+
+//Question 04
+const zz = {
+    brand : "new",
+    
+}
+zz.color = "red";
+console.log(zz)
+
+//QUEStion 05
+const xx = {
+    word : "meaning",
+    home : "work",
+    sun : "moon",
+    good : "bad",
+    girl : "boy"
+}
+console.log(xx)
